@@ -29,6 +29,13 @@ print(tuple([1,2,3]))
 # HF: git parancsok:
 # git init : adott mappa verziókövetésének indítása
 # git add . :
+# git config --global user.name "A Te GitHub felhasználóneved"
+# git config --global user.email "a_te_email_cimed@example.com"
+# git remote add origin https://github.com/FELHASZNÁLÓNÉV/myproject.git
+# git branch -M main
+# git push -u origin main
+# git clone https://github.com/FELHASZNÁLÓNÉV/myproject.git
+
 
 
 
